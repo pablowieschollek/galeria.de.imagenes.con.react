@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/galeria.de.imagenes.con.react/static/css/main.b2500d3d.css",
+    "main.js": "/galeria.de.imagenes.con.react/static/js/main.0eec9178.js",
+    "static/js/787.ec610164.chunk.js": "/galeria.de.imagenes.con.react/static/js/787.ec610164.chunk.js",
+    "index.html": "/galeria.de.imagenes.con.react/index.html",
+    "main.b2500d3d.css.map": "/galeria.de.imagenes.con.react/static/css/main.b2500d3d.css.map",
+    "main.0eec9178.js.map": "/galeria.de.imagenes.con.react/static/js/main.0eec9178.js.map",
+    "787.ec610164.chunk.js.map": "/galeria.de.imagenes.con.react/static/js/787.ec610164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2500d3d.css",
+    "static/js/main.0eec9178.js"
+  ]
+}
